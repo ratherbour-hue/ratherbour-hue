@@ -28,7 +28,7 @@ Konten AI • Membuat Script • Ritel Konten • Bot WA • Video Promosi AI �
 
 ## 🚀 Project Utama
 
-**[llinolabs-website](https://github.com/ratherbour-hue/llinolabs-website)** — website resmi llinolabs: katalog aplikasi premium, daftar jasa, video founder, dan chat AI untuk pengunjung. Live di **[www.llinolabs.com](https://www.llinolabs.com)**.
+**Website resmi llinolabs** — katalog aplikasi premium, daftar jasa, video founder, dan chat AI untuk pengunjung. Live di **[www.llinolabs.com](https://www.llinolabs.com)** (kode sumbernya privat).
 
 ## 📫 Hubungi Saya
 
